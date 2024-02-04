@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31120292237",
+    "project_id": "sky-detector",
+    "storage_bucket": "sky-detector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31120292237:android:7014ba2d35e1e64c47a5c4",
+        "android_client_info": {
+          "package_name": "com.example.sky_detector_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtDh6jTfx9arIZRWFNoV9zmW_6C4JUtE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
